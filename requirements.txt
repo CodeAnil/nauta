@@ -1,4 +1,4 @@
-ansible==2.5.5
+ansible==2.9.10
 docker-py
 yamllint==1.8.0
 netaddr
