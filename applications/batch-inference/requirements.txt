@@ -1,4 +1,6 @@
 tensorflow-serving-api==1.10.1
 kubernetes==6.0.0
-tensorflow==1.10.1
+tensorflow==2.5.1
 retry==0.9.2
+numpy>=1.16.3 # not directly required, pinned by Snyk to avoid a vulnerability
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
