@@ -1,4 +1,4 @@
-Flask==1.0.2
+Flask==2.2.5
 kubernetes==6.0.0
 gunicorn==19.9.0
 requests==2.20.0
